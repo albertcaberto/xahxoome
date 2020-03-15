@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://saiwekiet.plattenseerecords.com/sitemap.xml
